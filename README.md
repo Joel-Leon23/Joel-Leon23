@@ -4,10 +4,10 @@
 
 <ul>
 <li>
-<p>🔭 I'm currently working on exciting development projects</p>
+<p>🔭 I'm currently working on exciting projects to empower businesses</p>
 </li>
 <li>
-<p>🌱 I'm currently learning <strong>system design & mobile development</strong></p>
+<p>🌱 I'm currently learning <strong>System Design & Mobile Development</strong></p>
 </li>
 <li>
 <p>👨‍💻 All of my projects are available at <a href="#">portfolio (coming soon)</a></p>
