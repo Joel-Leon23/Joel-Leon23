@@ -10,7 +10,7 @@
 <p>🌱 I'm currently learning <strong>System Design & Mobile Development</strong></p>
 </li>
 <li>
-<p>👨‍💻 All of my projects are available at <a href="#">portfolio (coming soon)</a></p>
+<p>👨‍💻 All of my projects are available at <a href="https://joeleon.dev">my portfolio</a></p>
 </li>
 <li>
 <p>💬 Ask me about <strong>my experience with businesses and making people grow</strong></p>
